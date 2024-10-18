@@ -1,9 +1,9 @@
 # Spider-type-quadruped-robot
-蜘蛛型四足机器人——ESP8266+softAP动态调节姿态
 
-开发环境：VScode+platformio
+Spider Quadruped Robot - ESP8266+softAP Dynamic Attitude Adjustment
 
-开发资源库：arduino/ESP8266
+Development Environment: VScode+platformio
 
-硬件环境：8个舵机+ESP8266+舵机控制板+2节10440锂电池+电池盒
+Development resource library: arduino/ESP8266
 
+Hardware environment: 8 servos + ESP8266 + servo control board + 2 10440 lithium batteries + battery box
